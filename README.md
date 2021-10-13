@@ -8,4 +8,4 @@ Tony Smith
 
 ## Contents
 
-* Hines, Colin. *The ‘Chips’ are Down”. 1978. London. Earth Resources Research Limited.
+* [Hines, Colin. *The ‘Chips’ are Down”*. 1978. London. Earth Resources Research Limited.](Hines - The Chips are Down - 1978 - London. Earth Resources Research.pdf)
