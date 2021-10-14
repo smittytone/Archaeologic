@@ -8,5 +8,5 @@ Tony Smith
 
 ## Contents
 
-* [Hines, Colin. *The ‘Chips’ are Down”*. 1978. London. Earth Resources Research Limited](https://github.com/smittytone/Archaeologic/blob/main/Hines%20-%20The%20Chips%20are%20Down%20-%201978%20-%20London.%20Earth%20Resources%20Research.pdf)
-* [Grylls, Michael; Redwood, John. *NEB: A Case for Euthenasia*. 1980. London. Centre for Policy Studies]()
+* [Hines, Colin. *The ‘Chips’ are Down*. 1978. London. Earth Resources Research Limited](https://github.com/smittytone/Archaeologic/blob/main/Hines%20-%20The%20Chips%20are%20Down%20-%201978%20-%20London.%20Earth%20Resources%20Research.pdf)
+* [Grylls, Michael; Redwood, John. *NEB: A Case for Euthenasia*. 1980. London. Centre for Policy Studies](https://github.com/smittytone/Archaeologic/blob/main/Grylls%2C%20Redwood%20-%20NEB%20A%20Case%20for%20Euthenasia%20-%201980%20-%20CPS.pdf)
