@@ -8,7 +8,7 @@ Tony Smith
 
 #### Amstrad NC100 Notepad
 
-* [Amstrad Notepad NC100 I/O Specification](Amstrad%20NC100%20IO%20Specification.pdf) by Cliff Lawson and Amstrad (1992) Amstrad†
+* [Amstrad Notepad NC100 I/O Specification](Amstrad%20NC100%20IO%20Specification.pdf) by Cliff Lawson and Amstrad (1992) Amstrad †
 * [Amstrad Notepad NC100 Surgical Guide](Amstrad%20NC100%20Surgical%20Guide.pdf) by Hans-Jürgen Böhling †
 * [The Amstrad Notepad Advanced User Guide](Amstrad%20Notepad%20Advanced%20User%20Guide%20-%20Nixon.pdf) by Robin Nixon (1993) Sigma Press †
 * [How to Program the Amstrad NC100 Notepad](How%20to%20Program%20the%20Amstrad%20NC100%20Notepad%20-%20Hall.pdf) by Patrick Hall (1993) Sigma Press †
