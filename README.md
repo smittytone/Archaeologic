@@ -6,7 +6,26 @@ If you are the owner of one or more of the documents contained here, please cont
 
 Tony Smith
 
-## Contents
+#### Amstrad NC100 Notepad
 
-* [Hines, Colin. *The ‘Chips’ are Down*. 1978. London. Earth Resources Research Limited](https://github.com/smittytone/Archaeologic/blob/main/Hines%20-%20The%20Chips%20are%20Down%20-%201978%20-%20London.%20Earth%20Resources%20Research.pdf)
-* [Grylls, Michael; Redwood, John. *NEB: A Case for Euthenasia*. 1980. London. Centre for Policy Studies](https://github.com/smittytone/Archaeologic/blob/main/Grylls%2C%20Redwood%20-%20NEB%20A%20Case%20for%20Euthenasia%20-%201980%20-%20CPS.pdf)
+* [Amstrad Notepad NC100 I/O Specification](Amstrad%20NC100%20IO%20Specification.pdf) by Cliff Lawson and Amstrad (1992) Amstrad†
+* [Amstrad Notepad NC100 Surgical Guide](Amstrad%20NC100%20Surgical%20Guide.pdf) by Hans-Jürgen Böhling †
+* [The Amstrad Notepad Advanced User Guide](Amstrad%20Notepad%20Advanced%20User%20Guide%20-%20Nixon.pdf) by Robin Nixon (1993) Sigma Press †
+* [How to Program the Amstrad NC100 Notepad](How%20to%20Program%20the%20Amstrad%20NC100%20Notepad%20-%20Hall.pdf) by Patrick Hall (1993) Sigma Press †
+
+#### Others
+
+* [Thorn EMI Liberator User Manual](Thorn%20EMI%20LiberatorvUser%20Manual.pdf) by Thorn EMI Dynatel (1985) Thorn EMI †
+
+#### IT and Society
+
+* [The Chips are Down](The%20Chips%20are%20Down%20-%20Hines.pdf) by Colin Hines (1978) Earth Resources Research. †
+* [NEB: A Case for Euthanasia](NEB%20A%20Case%20for%20Euthenasia%20-%20Grylls,%20Redwood.pdf) by Michael Grylls and John Redwood (1980) Centre for Policy Studies †
+
+## Footnotes
+
+1 — Items marked `†` are not public domain but are copyright material. However, these relate to historical products
+that are no longer in production and/or were produced by companies that are no longer extant; were produced by
+organizations or publishers that are no longer in existence; or are of a deeply historical nature that they have no contemporary
+relevance. Copyright holders are invited to contact me (via the Issues system) if they object to the inclusion of
+the material here.
