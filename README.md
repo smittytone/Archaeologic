@@ -15,7 +15,7 @@ Tony Smith
 
 #### Others
 
-* [Thorn EMI Liberator User Manual](Thorn%20EMI%20LiberatorvUser%20Manual.pdf) by Thorn EMI Dynatel (1985) Thorn EMI †
+* [Thorn EMI Liberator User Manual](Thorn%20EMI%20Liberator%20User%20Manual.pdf) by Thorn EMI Dynatel (1985) Thorn EMI †
 
 #### IT and Society
 
