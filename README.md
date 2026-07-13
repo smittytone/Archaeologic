@@ -12,7 +12,7 @@ Tony Smith
 * [Amstrad Notepad NC100 Surgical Guide](Amstrad%20NC100%20Surgical%20Guide.pdf) by Hans-Jürgen Böhling †
 * [The Amstrad Notepad Advanced User Guide](Amstrad%20Notepad%20Advanced%20User%20Guide%20-%20Nixon.pdf) by Robin Nixon (1993) Sigma Press †
 * [How to Program the Amstrad NC100 Notepad](How%20to%20Program%20the%20Amstrad%20NC100%20Notepad%20-%20Hall.pdf) by Patrick Hall (1993) Sigma Press †
-
+* [NC100 Magic](NC100%20Magic%20-%20Gerhardi%2C%20Hampson.pdf) by Vic Gerhardi and Dave Hampson (1993) Kuma †
 #### Others
 
 * [Thorn EMI Liberator User Manual](Thorn%20EMI%20Liberator%20User%20Manual.pdf) by Thorn EMI Dynatel (1985) Thorn EMI †
